@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:purple">
+<center> 
+<u> <em> <h1>¿Kanye West si o no? </h1></em> </u>
+
+<audio controls>
+  <source src="/home/maia/Descargas/CSS/father stretch my hands.mp3" type="audio/ogg">
+  </audio>
+<p style="font-family:times new roman;">Kanye Oeste es un rapero, productor, actor, diseñador y empresario estadounidense.
+​Nacido en Atlanta y criado en Chicago, West ganó popularidad 
+como productor musical para el sello Roc-A-Fella Records a principios de los años 2000, 
+produciendo varios sencillos para artistas populares.
+</p>
+<center> 
+<p style = "font-family:times new roman;"> Experimentó con una gran variedad de géneros musicales y fue un cambio de aire fresco para el hip-hop con sus álbumes Late Registration (2005), Graduation (2007) y 808s & Heartbreak (2008).Con inspiraciones en el maximalismo y minimalismo, el quinto y sexto álbum de West, My Beautiful Dark Twisted Fantasy (2010) y Yeezus (2013) respectivamente, fueron un éxito crítico.</p> 
+<h2> Albumes: </h2> 
+<h5> The College Dropout: Lanzado en febrero de 2004, debutó como número dos en la listas de éxitos Billboard 200, así como su primer sencillo debut, Through the Wire que alcanzó el puesto quince en la lista Billboard Hot 100 durante cinco semanas.41​ Slow Jamz, su segundo sencillo con Twista y Jamie Foxx, se convirtió en un éxito aún mayor: se convirtió en el primer número uno de los tres músicos. The College Dropout recibió la aclamación casi-universal por críticos de la música contemporánea, fue votado como el mejor álbum del año por dos importantes publicaciones musicales y se ha clasificado constantemente entre las grandes obras de hip-hop y álbumes debut de artistas. Jesus Walks, el cuarto sencillo del álbum, quizás expuso a West a una audiencia más amplia; el tema de la canción tiene que ver con la fe y el cristianismo. Sin embargo, la canción alcanzó el top 20 de las listas de éxitos de Billboard, a pesar de las predicciones de los ejecutivos de la industria de que una canción que contenga declaraciones de fe tan descaradas nunca llegaría a la radio. The College Dropout finalmente sería certificado triple platino en los EE. UU. y obtuvo 10 nominaciones al Grammy, incluido Álbum del año y Mejor álbum de rap (que acabó recibiendo).</h5>
+<h5> Late registration: Lanzado en agosto de 2005, debutó en el #1, vendiendo más de 860,000 copias en su primera semana, convirtiéndose de paso, en el disco que más ha vendido en su primera semana en la historia de Def Jam Recordings.El primer sencillo del álbum fue "Diamonds from Sierra Leone". La canción, originalmente, era una referencia para su sello discográfico Roc-A-Fella, conocido por el gesto de mano con un "diamante". Pero el título de la canción fue cambiado (originalmente se llamaba "Diamonds Are Forever") para que no se provocara una confusión con la canción de Jay-Z, "Diamond Is Forever" del disco The Blueprint 2: The Gift & the Curse. El título del sencillo, así como su posterior remix (con Jay-Z) aborda directamente el problema del conflicto de diamantes, principal factor de la guerra civil en Sierra Leona. El segundo sencillo de Late Registration fue "Gold Digger", que contiene la interpolación de "I Got A Woman" de Ray Charles, cantada por Jamie Foxx, quien encarna a Charles en su biografía Ray. Éste se convirtió en su segundo sencillo en estar en los Billboard Hot 100. El tercer sencillo fue "Heard 'Em Say" junto a Adam Levine de Maroon 5, y el cuarto sencillo fue "Touch the Sky" con Lupe Fiasco. El tema "Hey Mama" se intentó lanzar como sencillo, pero no fue posible </h5>
+<h5> Graduation: Lanzado el 11 de septiembre de 2007, fue impulsado por el éxito de «Stronger», ( que samplea al dúo de house francés Daft Punk), tras su lanzamiento Graduation debutó en las primeras posiciones de numerosas listas musicales de álbumes de alrededor del mundo.Caso especial fue el de la Billboard 200 de los Estados Unidos, donde luego de superar a Curtis de 50 Cent, se convirtió en el segundo álbum de estudio número uno consecutivo de Kanye West, tras vender 957 000 copias sólo en su primera semana en el país. De acuerdo a la IFPI, en menos de tres meses Graduation se convirtió en el décimo séptimo álbum más vendido alrededor del mundo en el año 2007.3​ Según un reporte de junio de 2013 de Nielsen SoundScan, Graduation vendió 2.7 millones de copias en los Estados Unidos,4​ donde se convirtió en el tercer álbum más vendido de West, después de Late Registration y The College Dropout, respectivamente.</h5>
+<h5> 808s and Heartbreak: Lanzado el 24 de noviembre de 2008,  fue el resultado de varios acontecimientos que, en el último año, impactaron la vida de Kanye West. Tras éstos, el artista construyó a través del álbum un nuevo inicio en términos líricos, vocales y de producción en su carrera musical, distanciándose del producto de sus tres primeros álbumes de estudio. Aunque la reacción inicial por parte de los críticos frente al cambio de estilo de Kanye West fue mixta, 808s & Heartbreak tuvo, en términos generales, un buen recibimiento por parte de los críticos y fue acogido como un éxito comercial en los Estados Unidos, donde debutó en la posición número uno del Billboard 2001​ y registró ventas que rápidamente fueron certificadas de Platino por la RIAA. </h5>
+<h5> My Beautiful Dark Fantasy: Lanzado el 22 de noviembre de 2010, está considerado uno de los mejores álbumes de rap de la historia, así como uno de los mejores discos del siglo xxi y de todos los tiempos. El álbum debutó en el número uno en la lista Billboard 200, vendiendo 496.000 copias en su primera semana en Estados Unidos. Registró posicionamientos respetables a nivel internacional y produjo cuatro sencillos iniciales con diversos niveles de éxito en las listas: «Power», «Runaway», «Monster» y «All of the Lights». Tras su lanzamiento, recibió elogios de los críticos por su variado estilo musical, siendo catalogado como uno de los mejores álbumes de la historia.También fue nombrado como el mejor álbum del año 2010 por numerosos medios especializados y certificado disco de platino por la Recording Industry Association of America (RIAA).</h5>
+<h5> Yeezus: Lanzado el 18 de junio de 2003. La producción del álbum comenzó en el salón de una habitación de un hotel de París. West reunió a varios artistas y colaboradores cercanos para el trabajo y la producción del álbum, incluyendo a Mike Dean, Travis Scott, Arca, Gesaffelstein y el dueto francés de música house, Daft Punk. Yeezus también cuenta con colaboraciones de artistas invitados tales como Assassin y King L, así como colaboradores previos de la talla de Justin Vernon, Frank Ocean, Chief Keef, Kid Cudi y Charlie Wilson. West incluyó al ayudante de producción Rick Rubin solo 15 días antes de la fecha de lanzamiento para desnudar el sonido del disco a favor de un enfoque más minimalista.Yeezus debutó en el número uno en el Billboard 200, vendiendo 327.000 copias en su primera semana de lanzamiento, pero las ventas disminuyeron en poco tiempo. </h5>
+<h5> The Life of Pablo: Lanzado en febrero de 2016. El álbum se inspira de manera parcial en la vida y obra del apóstol san Pablo. El álbum estaba disponible para la venta en el sitio web de West, según Billboard, TLOP cumplió con la condición de platino. Muchas fuentes informan que el álbum fue escrito y grabado en varias ubicaciones, incluyendo Los Ángeles, México, la isla de Wight y Florencia. </h5>
+<h5> Jesus is King: Lanzado el 25 de octubre de 2019. El álbum sigue un tema cristiano, y West lo describe como «una expresión del evangelio». West había formado su grupo de servicio dominical bajo el nombre de Sunday Service en enero de 2019, interpretando canciones gospel y versiones de canciones de su discografía.Jesus Is King se situó como el noveno álbum consecutivo de West en debutar en la cima del US Billboard 200. Con el lanzamiento, West se convirtió en el primer artista en tomar los diez primeros lugares en las listas de canciones cristianas y gospel de los Estados Unidos, respectivamente. West rompió otro récord al ser el primer artista en encabezar simultáneamente cinco listas separadas en los Estados Unidos: Billboard 200, Top R&B/Hip-Hop Albums, Top Rap Albums, Top Christian Albums y Top Gospel Albums.</h5>
+<h5> Donda: Lanzado el 29 de agosto de 2021.El álbum lleva el nombre de la difunta madre de West, Donda West, y comparte un nombre con su compañía de contenido creativo.El 23 de noviembre de 2021 el álbum fue nominado a los premios Grammy como álbum del año y mejor álbum de rap. La gala de los premios fue el 3 de abril del 2022.
+
+
+
+<center>
+</pre>
+<p style="color: blue">faltan 0 dias para el album de Kanye West, escuchalo aquí:.</p> </a>
+<img src="https://i.seadn.io/gae/OjeJBhbHO8jR8tKcTNXSYyrvWi3pOx510uXYglnpiA-hfU2ZEeFdhI-l6F2lOZzUWjD1EBBzRQK4DEjIcChmMvXnmNRwpf8iSUZEHv0?auto=format&dpr=1&w=1000" alt="ye" width="300" height="400"> 
+<center>
+ <p style="color: blue">video de Andy Rants sobre las mejores canciones de kanye west: </p> 
+<embed type="video/webm" src="/home/maia/Descargas/CSS/(y2save.net) I Ranked EVERY Kanye Song Donda Update .mp4" width="400" height="300">
+<center> 
+<script>
+if (confirm ("¿Quieres ir a Spotify?"))
+{window.open("https://open.spotify.com/intl-es/album/0k7ALIqqds5oGFtpMsaHLK")}
+else
+{alert("Esta bien nos quedamos aqui")}
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
+<body id="Preguntas">
+       <h1>
+       1. ¿Quién es Kanye West?
+       </h1>
+       <p><br>
+       <input type="radio" name="pregunta1" id = "correcta1" value="Es un rapero"> Es un rapero<br>
+       <input type="radio" name="pregunta1" value="Es un jugador de futbol"> Es un jugador de futbol <br>
+       <input type="radio" name="pregunta1" value="Es un director de cine"> Es un director de cine<br>
+       <input type="radio" name="pregunta1" value="Es un escritor"> Es un escritor
+       </p>
+         <p><input type="submit" id="respuesta1" value="Corregir"></p>
+
+        <h1>
+       2. ¿Dónde nacio?
+       </h1>
+       <p><br>
+       <input type="radio" name="pregunta2" value="Chicago"> Chicago<br>
+       <input type="radio" name="pregunta2" id= "correcta2" value="Atlanta"> Atlanta<br>
+       <input type="radio" name="pregunta2" value="Nueva York"> Nueva Yorkbr>
+       <input type="radio" name="pregunta2" value="San Francisco"> San Francisco
+       </p>
+         <p><input type="submit" id="respuesta2" value="Corregir"></p>
+
+        <h1>
+       3. ¿Es The Life of Pablo un album de Kanye West?
+       </h1>
+       <p><br>
+       <input type="radio" name="pregunta3" id = "correcta3" value="Si"> Si <br>
+       <input type="radio" name="pregunta3" value="No"> No
+       </p>
+         <p><input type="submit" id="respuesta3" value="Corregir"></p>
+
+        <h1>
+       4.¿Por qué el album Donda se llama así?
+       </h1>
+       <p><br>
+       <input type="radio" name="pregunta4" value="Porque sí"> Porque sí<br>
+       <input type="radio" name="pregunta4" id = "correcta4" value="Por su madre"> Por su madre<br>
+       <input type="radio" name="pregunta4" value="Por su perro"> Por su perro<br>
+       <input type="radio" name="pregunta4" value="Por su hermana"> Por su hermana
+       </p>
+         <p><input type="submit" id="respuesta4" value="Corregir"></p>
+
+         <h1>
+       5. ¿Cuando se lanzó Graduation?
+       </h1>
+       <p><br>
+       <input type="radio" name="pregunta5" value="11/9/2001"> 11/9/2001<br>
+       <input type="radio" name="pregunta5" id = "correcta5" value="11/9/2007"> 11/9/2007<br>
+       <input type="radio" name="pregunta5" value="11/10/1999"> 11/10/1999<br>
+       <input type="radio" name="pregunta5" value="27/8/2006"> 27/8/2006
+       </p>
+         <p><input type="submit" id="respuesta5" value="Corregir"></p>
+
+         <button id="puntuacion">Puntuación</button>
+       <button onclick="location.href='index.html'">Volver a empezar</button>
+   </div>
+   <script src="script.js"></script>
+<script>
+function cuestionario() {
+var p1, p2, p3, p4, p5, nota;
+if (document.getElementById("correcta1").checked==true) {
+p1=1
+}
+else {p1=0}
+if (document.getElementById("correcta2").checked==true) {p2=1}
+else {p2=0}
+if (document.getElementById("correcta3").checked==true) {p3=1}
+else {p3=0}
+if (document.getElementById("correcta4").checked==true) {p4=1}
+else {p4=0}
+if (document.getElementById("correcta5").checked==true) {p5=1}
+else {p5=0}
+nota=p1+p2+p3+p4+p5;
+alert("Usted tiene un total de " +nota+ " aciertos");
+}
+document.getElementById("puntuacion").onclick = function (){
+    cuestionario();
+}
+</script>
+
+<center>
+<script>
+</pre>
+</body>
+</html>
